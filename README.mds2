@@ -1,0 +1,13 @@
+# 📜​ Primeiro Projeto - Cálculo da média de Kwh por mês de aparelhos eltrodomésticos
+⭐​
+## Tecnologias Utilizadas
+[![Python](https://shields.io)](https://python.org)
+[![GitHub](https://shields.io)](https://github.com)
+🧮
+## 📌 Objetivo do Sistema
+Este projeto foi desenvolvido para uma campanha de conscientização ambiental. O script em Python classifica o perfil de consumo de água em residências e comércios, emitindo alertas educativos personalizados para os moradores com base no volume gasto em metros cúbicos (m³).
+🚀​
+## Como Utilizar o Programa
+ 1. Ter o Python instalado na sua máquina  
+ 2. Abrir o Terminal na pasta do projeto 
+ 3. Insira os dados solicitados no terminal para ver o resultado na tela.
