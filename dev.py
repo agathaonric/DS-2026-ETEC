@@ -1,7 +1,7 @@
 excelente = 0
 bom = 0
 ruim = 0
-TOTAL_ENTREVISTADOS = 5
+TOTAL_ENTREVISTADOS = 50
 
 print(f"--- Início da Pesquisa de Atendimento ({TOTAL_ENTREVISTADOS} entrevistados) ---")
 
